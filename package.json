@@ -4,9 +4,9 @@
   "description": "Node.js reverse geocoding for countries & us states",
   "keywords": ["reverse", "geocoding", "countries", "country"],
   "homepage": "https://github.com/dubizzle/country-reverse-geocoding",
-  "author": { "name": "Tariq Zabian",
-              "email": "tariq@sheddapp.com",
-              "url": "http://sheddapp.com" },
+  "author": { "name": "Guillaume Flandre",
+              "email": "guillaume@teleportd.com",
+              "url": "http://twitter.com/gflandre" },
   "repository" :    { "type" :  "git",
                       "url" :   "https://github.com/dubizzle/country-reverse-geocoding.git" },
   "dependencies": {

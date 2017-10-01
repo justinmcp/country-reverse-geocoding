@@ -1,19 +1,27 @@
 {
-  "name": "@tzabian/country-reverse-geocoding",
-  "version": "0.1.2",
-  "description": "Node.js reverse geocoding for countries & us states",
+  "name": "@justinmcp/country-reverse-geocoding",
+  "version": "0.2.0",
+  "description": "Node.js reverse geocoding for countries",
   "keywords": ["reverse", "geocoding", "countries", "country"],
-  "homepage": "https://github.com/dubizzle/country-reverse-geocoding",
-  "author": { "name": "Guillaume Flandre",
-              "email": "guillaume@teleportd.com",
-              "url": "http://twitter.com/gflandre" },
-  "repository" :    { "type" :  "git",
-                      "url" :   "https://github.com/dubizzle/country-reverse-geocoding.git" },
-  "dependencies": {
-    "fwk": "1.0.x"
+  "homepage": "https://github.com/justinmcp/country-reverse-geocoding",
+  "author": {
+    "name": "Guillaume Flandre",
+    "email": "guillaume@teleportd.com",
+    "url": "http://twitter.com/gflandre"
   },
-  "main" : "./lib/country_reverse_geocoding",
-  "engines" : { 
-    "node" : ">=v0.6.0" 
+  "contributors": [
+    {
+      "name": "Justin McPherson",
+      "email": "justin@threewaters.net"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinmcp/country-reverse-geocoding.git"
+  },
+  "dependencies": {},
+  "main": "./lib/country_reverse_geocoding",
+  "engines": {
+    "node": ">=v0.6.0"
   }
 }
